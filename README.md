@@ -26,3 +26,5 @@
 - Thanks for visiting.
 
 - Enjoy it!! o/
+
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonats&show_icons=true&theme=radical) -->
