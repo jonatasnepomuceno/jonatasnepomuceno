@@ -5,13 +5,11 @@
 ## I'm Jonatas Nepomuceno!
 
  
-:computer: Student Web Developer!
+:computer: Student Data Science!
 
 :house_with_garden: I’m from Brazil.
 
 :books: I’m currently learning everything.
-
-:rocket: <a href="https://www.betrybe.com/" alt="Trybe" rel="nofollow">Trybe</a> Student
 
 :outbox_tray: 2021 Goals: create a new project and find a new job.
  
